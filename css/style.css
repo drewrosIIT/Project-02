@@ -56,4 +56,17 @@ section {
 
 h1 {
   font-family: 'Alfa Slab One', cursive;
+  color: black;
+}
+
+#resume {
+  color: navy;
+}
+
+#biking {
+  color: red;
+}
+
+#hiking {
+  color: #006400;
 }
