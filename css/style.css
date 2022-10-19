@@ -20,11 +20,6 @@
   padding: 0;
 }
 
-#main-navbar ul li {
-  display: block;
-  float: left;
-}
-
 #main-navbar ul li a {
   text-decoration: none;
   text-align: center;
@@ -40,6 +35,13 @@
 
 #onpage {
   text-decoration: underline overline;
+}
+
+@media screen and (min-width: 800px) {
+  #main-navbar ul li {
+    display: block;
+    float: left;
+  }
 }
 
 body {
