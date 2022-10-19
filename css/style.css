@@ -34,7 +34,8 @@
 }
 
 #main-navbar ul li a:hover {
-  background-color: red;
+  background-color: white;
+  color: blue;
 }
 
 #onpage {
