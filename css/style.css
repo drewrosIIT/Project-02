@@ -69,14 +69,45 @@ h1 {
   margin-left: 25%;
 }
 
+#hiking section {
+  width: 75%;
+  margin-left: 12.5%;
+}
+
+#hiking {
+  text-align: center;
+}
+
 #resume footer {
+  text-align: center;
+}
+
+#hiking footer {
   text-align: center;
 }
 
 #biking {
   color: red;
+  width: 900px;
+  margin: 10px;
+  padding: 5px;
+}
+
+#biking footer {
+  width: 900px;
+  margin: 10px;
+  padding: 5px;
 }
 
 #hiking {
   color: #006400;
+}
+
+#bikevid {
+  border: 5px dotted blue;
+  margin: 10px;
+}
+
+#biking ul {
+  list-style-type: square;
 }
