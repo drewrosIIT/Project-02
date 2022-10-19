@@ -78,6 +78,7 @@ h1 {
   text-align: center;
 }
 
+
 #resume footer {
   text-align: center;
 }
@@ -91,6 +92,7 @@ h1 {
   width: 900px;
   margin: 10px;
   padding: 5px;
+  font-size: 1em;
 }
 
 #biking footer {
