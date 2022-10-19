@@ -33,9 +33,6 @@
   color: blue;
 }
 
-#onpage {
-  text-decoration: underline overline;
-}
 
 @media screen and (min-width: 800px) {
   #main-navbar ul li {
@@ -65,6 +62,15 @@ h1 {
 
 #resume {
   color: navy;
+}
+
+#resume section {
+  width: 50%;
+  margin-left: 25%;
+}
+
+#resume footer {
+  text-align: center;
 }
 
 #biking {
