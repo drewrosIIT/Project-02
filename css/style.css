@@ -43,6 +43,7 @@
 
 body {
   background-color: grey;
+  font-family: Veranda, Helvetica, sans-serif;
 }
 
 section {
@@ -51,4 +52,8 @@ section {
   margin: 10px;
   background-color: white;
   padding-left: 10px;
+}
+
+h1 {
+  font-family: 'Alfa Slab One', cursive;
 }
