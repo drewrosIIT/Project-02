@@ -47,7 +47,7 @@ body {
 }
 
 section {
-  border: 3px solid blue;
+  border: 2px solid blue;
   border-radius: 5px;
   margin: 10px;
   background-color: white;
@@ -67,26 +67,6 @@ h1 {
 #resume section {
   width: 50%;
   margin-left: 25%;
-  padding: 1.5%;
-}
-
-#resume footer {
-  text-align: center;
-}
-
-#jones {
-  position: relative;
-  top: 0;
-  left: 0;
-  border: 3px blue solid;
-  border-radius: 95%;
-
-#hiking footer {
-  text-align: center;
-}
-
-#hiking {
-  color: #006400;
 }
 
 #hiking section {
@@ -98,8 +78,13 @@ h1 {
   text-align: center;
 }
 
-#hikingdesc {
-  font-size: 10px;
+
+#resume footer {
+  text-align: center;
+}
+
+#hiking footer {
+  text-align: center;
 }
 
 #biking {
@@ -116,7 +101,14 @@ h1 {
   padding: 5px;
 }
 
+#hiking {
+  color: #006400;
+}
 
+#bikevid {
+  border: 5px dotted blue;
+  margin: 10px;
+}
 
 #biking ul {
   list-style-type: square;
